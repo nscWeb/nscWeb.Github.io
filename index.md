@@ -1,6 +1,13 @@
-## Welcome to GitHub Pages
+## 付生科技
 
-You can use the [editor on GitHub](https://github.com/nscWeb/nscWeb.Github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+一个专心做小程序的技术宅
+做得出好的产品，卖不出好的价钱
+很多时候
+可能我们真的需要的
+也就仅仅是一款号的产品而已
+哪怕，她
+并不讨人喜欢，也更卖不出好的价钱
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
