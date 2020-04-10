@@ -31,11 +31,21 @@
 
 ####  极速开通 统一管理 免技术维护
 
+从账号注册、小程序申请、认证，到微信支付开通等环节全部通过服务商专用通道申办。
 
-### Jekyll Themes
+小程序开发采用自定义组件、插件等新式实现快速搭建。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nscWeb/nscWeb.Github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+涉及上述功能系统的小程序，准备齐全材料后，最快当天就能上线使用。
+
+当然，针对要合作的商家，我们还是更希望能够更多的沟通，找到自身的突破点，让每一个小程序都更具意义。
+
+### 写在最后
+
+上述提及的各类型系统，同时也在寻找各地方有力的合作伙伴，有意向可以联系我们沟通。
+
+探讨一直都是进步的标准执行方式
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Wechat / hellofus
+Email / nsc911 #@#@# 126.com
